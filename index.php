@@ -11,8 +11,5 @@
 <?php
     print "ok";
  ?>
- <?php
-	phpinfo();
- ?>
 </body>
 </html>
